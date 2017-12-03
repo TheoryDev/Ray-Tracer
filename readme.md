@@ -1,4 +1,4 @@
-# In this project I simulated a laser beam passing through different lenses/mirrors to study refraction, reflection and diffraction.
+# In this project I simulated a laser beam interacting with different lenses/mirrors to study refraction, reflection and diffraction.
 There is also optimisation to find the optimal biconvex lens
 
 `The Scripts are best run in the terminal using Python 2. When running the 3d plots make sure that the plot is displayed outside of the terminal so that you can change the orientation.`
