@@ -1,4 +1,4 @@
-# In this project I simulated a laser beam passing through different lenses/mirrors to study refraction, reflection and difraction.
+# In this project I simulated a laser beam passing through different lenses/mirrors to study refraction, reflection and diffraction.
 There is also optimisation to find the optimal biconvex lens
 
 `The Scripts are best run in the terminal using Python 2. When running the 3d plots make sure that the plot is displayed outside of the terminal so that you can change the orientation.`
@@ -55,7 +55,7 @@ x1 and y1 are used to offset the disc of x and y positions.
 This module contains various plotting functions that are used by the OpticalSystem graphs to produce plots.
 The methods are called from outside of the module in practice.
 
-Description of scripts.
+Description of scripts:
 
 ### `standard lens.py:`
 
